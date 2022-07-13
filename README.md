@@ -1,6 +1,6 @@
 # ddb-expression-builder
 
-Use this package to build **type-safe** expressions for DynamoDB!
+Use this package to build **type-safe** expressions for DynamoDB! It is designed to be used with the [AWS SDK v3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/clients/client-dynamodb/index.html) or [AWS SDK v2](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/DynamoDB.html) DynamoDB Clients.
 
 ## Example
 
