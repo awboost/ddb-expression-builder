@@ -1,14 +1,18 @@
 {
-  "name": "ddb-expression-builder",
+  "name": "@awboost/ddb-expression-builder",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.1.2",
   "author": {
-    "name": "Gordon Leigh"
+    "name": "Gordon Leigh",
+    "email": "gordonmleigh@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gordonmleigh/ddb-expression-builder.git"
+    "url": "https://github.com/awboost/ddb-expression-builder.git"
   },
-  "homepage": "https://github.com/gordonmleigh/ddb-expression-builder#readme",
+  "homepage": "https://github.com/awboost/ddb-expression-builder#readme",
   "type": "module",
   "main": "./lib/cjs/index.js",
   "types": "./lib/index.d.ts",

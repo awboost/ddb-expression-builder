@@ -1,11 +1,11 @@
-# ddb-expression-builder
+# @awboost/ddb-expression-builder
 
 Use this package to build **type-safe** expressions for DynamoDB! It is designed to be used with the [AWS SDK v3](https://docs.aws.amazon.com/AWSJavaScriptSDK/v3/latest/clients/client-dynamodb/index.html) or [AWS SDK v2](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/DynamoDB.html) DynamoDB Clients.
 
 ## Example
 
 ```typescript
-import { ExpressionBuilder } from "ddb-expression-builder";
+import { ExpressionBuilder } from "@awboost/ddb-expression-builder";
 
 const repo = {
   id: 42,
